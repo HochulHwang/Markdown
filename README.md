@@ -1,6 +1,6 @@
 # Markdown Syntax
-## hh2
-* hello
-  * hello 2
 
-## **Bold text** & *Italic text*  
+# Italics and Bold 
+_Italics_: * or _
+**Bold**: ** or __
+**_Italics and Bold_**: **_ _** for legibility
