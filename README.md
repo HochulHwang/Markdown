@@ -5,7 +5,7 @@
 >**Bold**: ** or __<br> 
 >**_Italics and Bold_**: _** for legibility<br> 
 ## Headers<br>
-#### Header4: ####<br>
+>ex) #### Header4: ####<br>
 ## Links<br>
 ### 1.Inline link<br>
 >brackets([]) and parenthesis(())<br>
