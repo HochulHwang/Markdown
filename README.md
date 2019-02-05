@@ -3,4 +3,4 @@
 # Italics and Bold<br> 
 _Italics_: * or _<br> 
 **Bold**: ** or __<br> 
-**_Italics and Bold_**: **_ for legibility<br> 
+**_Italics and Bold_**: _** for legibility<br> 
