@@ -7,5 +7,5 @@ _Italics_: * or _<br>
 ## Headers<br>
 #### Header4: ####<br>
 ## Links<br>
-brackets([]) and parenthesis(()).
-[Text]((link address))
+brackets([]) and parenthesis(()).<br>
+[[Text]]((link address))<br>
