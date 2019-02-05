@@ -14,3 +14,5 @@ emphasize using bold in text<br>
 ### 2.Reference link<br>
 this is a [reference link][reference]<br>
 [reference]: address<br>
+## Images<br> 
+! in front; the rest is same as links <br>
