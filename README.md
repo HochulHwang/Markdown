@@ -7,10 +7,10 @@ _Italics_: * or _<br>
 ## Headers<br>
 #### Header4: ####<br>
 ## Links<br>
-### 1.inline link<br>
+### 1.Inline link<br>
 brackets([]) and parenthesis(())<br>
 [[Text]]((link address))<br>
 emphasize using bold in text<br>
-### 2.reference link<br>
+### 2.Reference link<br>
 this is a [reference link][reference]<br>
 [reference]: address<br>
