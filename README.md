@@ -11,10 +11,10 @@ _Italics_: * or _<br>
 brackets([]) and parenthesis(())<br>
 [[Text]]((link address))<br>
 emphasize using bold in text<br>
-### 2.Reference link<br>
-this is a [reference link][reference]<br>
-[reference]: address<br>
+>### 2.Reference link<br>
+>this is a [reference link][reference]<br>
+>[reference]: address<br>
 ## Images<br> 
-! in front; the rest is same as links <br>
->## Blockquotes<br>
-preface a line with ><br>
+>! in front; the rest is same as links <br>
+## Blockquotes<br>
+>preface a line with ><br>
