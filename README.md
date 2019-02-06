@@ -22,4 +22,5 @@
 ### 1. Unordered lists<br>
 >asterisk (*) + space<br>
 ### 2. Ordered lists<br>
->number + space <br>
+>number + space<br>
+## Paragraphs<br>
