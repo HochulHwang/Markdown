@@ -8,12 +8,12 @@
 >ex) Header4: ####  
 ## Links
 > ### Inline link
->brackets([]) and parenthesis(())  
->[[Text]]((link address))  
->emphasize using bold in text  
-* ### Reference link
->this is a [reference link][reference]  
->[reference]: address  
+>* brackets([]) and parenthesis(())  
+>* [[Text]]((link address))  
+>* emphasize using bold in text  
+> ### Reference link
+>* this is a [reference link][reference]  
+>* [reference]: address  
 ## Images
 >! in front; the rest is same as links  
 ## Blockquotes
