@@ -28,7 +28,3 @@
 >* no spaces needed for headers  
 ## Codes 
 > write codes between ~~~  
-'''
-int x = 10;
-int y = 20;
-'''
