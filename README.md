@@ -8,9 +8,9 @@
 >ex) Header4: ####<br>
 ## Links<br>
 ### 1. Inline link
-brackets([]) and parenthesis(())<br>
-[[Text]]((link address))<br>
-emphasize using bold in text<br>
+brackets([]) and parenthesis(())
+[[Text]]((link address))
+emphasize using bold in text
 ### 2. Reference link<br>
 >this is a [reference link][reference]<br>
 >[reference]: address<br>
