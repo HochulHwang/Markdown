@@ -13,16 +13,16 @@
 >* emphasize using bold in text  
 > ### Reference link
 >* this is a [reference link][reference]  
->* [reference]: address  
+>* "[reference]: address"  
 ## Images
 >! in front; the rest is same as links  
 ## Blockquotes
 >preface a line with >  
 ## Lists
 > ### Unordered lists
-> asterisk (*) + space  
+>* asterisk (*) + space  
 > ### Ordered lists 
-> number + space  
+>* number + space  
 ## Paragraphs
 >* 2 spaces for new line  
 >* no spaces needed for headers  
