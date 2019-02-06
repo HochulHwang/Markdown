@@ -18,3 +18,7 @@
 >! in front; the rest is same as links <br>
 ## Blockquotes<br>
 >preface a line with ><br>
+## Lists<br>
+### 1.Unordered lists<br>
+asterisk (*) + space<br>
+### 2.Ordered lists<br>
