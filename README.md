@@ -11,7 +11,7 @@
 >brackets([]) and parenthesis(())<br>
 >[[Text]]((link address))<br>
 >emphasize using bold in text<br>
-### * Reference link<br>
+### 2. Reference link<br>
 >this is a [reference link][reference]<br>
 >[reference]: address<br>
 ## Images<br> 
@@ -19,6 +19,6 @@
 ## Blockquotes<br>
 >preface a line with ><br>
 ## Lists<br>
-### * Unordered lists<br>
+### 1. Unordered lists<br>
 asterisk (*) + space<br>
-### * Ordered lists<br>
+### 2. Ordered lists<br>
