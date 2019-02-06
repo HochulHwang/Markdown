@@ -1,12 +1,12 @@
 # Markdown Syntax
 
 ## Italics and Bold
->_Italics_: * or _
->**Bold**: ** or __
->**_Italics and Bold_**: _** for legibility<br> 
-## Headers<br>
->ex) Header4: ####<br>
-## Links<br>
+>_Italics_: * or _  
+>**Bold**: ** or __  
+>**_Italics and Bold_**: _** for legibility  
+## Headers
+>ex) Header4: ####  
+## Links
 ### 1. Inline link
 >brackets([]) and parenthesis(())  
 >[[Text]]((link address))  
