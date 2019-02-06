@@ -20,9 +20,9 @@
 >preface a line with >  
 ## Lists
 > ### Unordered lists
->* asterisk (*) + space  
+> asterisk (*) + space  
 > ### Ordered lists 
->* number + space  
+> number + space  
 ## Paragraphs
 >* 2 spaces for new line  
 >* no spaces needed for headers  
