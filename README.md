@@ -7,11 +7,11 @@
 ## Headers
 >ex) Header4: ####  
 ## Links
-### 1. Inline link
+* ### Inline link
 >brackets([]) and parenthesis(())  
 >[[Text]]((link address))  
 >emphasize using bold in text  
-### 2. Reference link
+* ### Reference link
 >this is a [reference link][reference]  
 >[reference]: address  
 ## Images
