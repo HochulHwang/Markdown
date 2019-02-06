@@ -1,8 +1,8 @@
 # Markdown Syntax
 
-## Italics and Bold<br> 
->_Italics_: * or _<br> 
->**Bold**: ** or __<br> 
+## Italics and Bold
+>_Italics_: * or _
+>**Bold**: ** or __
 >**_Italics and Bold_**: _** for legibility<br> 
 ## Headers<br>
 >ex) Header4: ####<br>
