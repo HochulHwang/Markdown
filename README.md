@@ -24,5 +24,5 @@
 ### 2. Ordered lists 
 >number + space  
 ## Paragraphs
-2 spaces for new line  
-no spaces needed for headers  
+>* 2 spaces for new line  
+>* no spaces needed for headers  
