@@ -19,10 +19,10 @@
 ## Blockquotes
 >preface a line with >  
 ## Lists
-1. ### Unordered lists
->asterisk (*) + space  
-### 2. Ordered lists 
->number + space  
+> ### Unordered lists
+>* asterisk (*) + space  
+> ### Ordered lists 
+>* number + space  
 ## Paragraphs
 >* 2 spaces for new line  
 >* no spaces needed for headers  
