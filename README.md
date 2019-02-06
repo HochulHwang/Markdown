@@ -26,3 +26,8 @@
 ## Paragraphs
 >* 2 spaces for new line  
 >* no spaces needed for headers  
+'This is code'
+~~~
+i = 10;
+int j = 20;
+~~~
