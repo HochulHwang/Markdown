@@ -1,9 +1,9 @@
 # Markdown Syntax
 
 ## Italics and Bold
->_Italics_: * or _  
->**Bold**: ** or __  
->**_Italics and Bold_**: _** for legibility  
+>* _Italics_: * or _  
+>* **Bold**: ** or __  
+>* **_Italics and Bold_**: _** for legibility  
 ## Headers
 >ex) Header4: ####  
 ## Links
