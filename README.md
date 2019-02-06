@@ -7,11 +7,11 @@
 ## Headers<br>
 >ex) Header4: ####<br>
 ## Links<br>
-### 1.Inline link<br>
+### * Inline link<br>
 >brackets([]) and parenthesis(())<br>
 >[[Text]]((link address))<br>
 >emphasize using bold in text<br>
-### 2.Reference link<br>
+### * Reference link<br>
 >this is a [reference link][reference]<br>
 >[reference]: address<br>
 ## Images<br> 
@@ -19,6 +19,6 @@
 ## Blockquotes<br>
 >preface a line with ><br>
 ## Lists<br>
-### 1.Unordered lists<br>
+### * Unordered lists<br>
 asterisk (*) + space<br>
-### 2.Ordered lists<br>
+### * Ordered lists<br>
