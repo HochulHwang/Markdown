@@ -27,4 +27,4 @@
 >* 2 spaces for new line  
 >* no spaces needed for headers  
 ## Codes 
-> write codes between ~~~  
+> write codes between ```python```
